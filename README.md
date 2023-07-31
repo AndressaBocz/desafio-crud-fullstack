@@ -37,5 +37,6 @@ SQL;
 - PostgreSQL
 
 # Overview da aplicação
-![image](https://discord.com/channels/813549347924869170/813549347924869173/1135663069553492049)
+Imagens na pasta de "aplicação"
 
+(Pasta node_modules não foi commitada junto com o projeto)
