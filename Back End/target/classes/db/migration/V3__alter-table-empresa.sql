@@ -1,0 +1,1 @@
+ALTER TABLE empresa ADD uf VARCHAR(2);
