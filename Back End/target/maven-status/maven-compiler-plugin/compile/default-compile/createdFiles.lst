@@ -1,0 +1,4 @@
+com\desafio\accenture\CrudApplication.class
+com\desafio\accenture\ServletInitializer.class
+com\desafio\accenture\controllers\FornecedorController.class
+com\desafio\accenture\domain\fornecedor\Fornecedor.class
